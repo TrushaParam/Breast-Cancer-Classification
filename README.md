@@ -1,1 +1,1 @@
-Developed a machine learning model for classifying breast cancer tumors using medical image data; assessed various classifiers, identified top-performing models (KNN, SVM, SGD), and employed feature engineering for optimal performance.
+Developed a machine learning model for classifying breast cancer tumours using medical image data; assessed various classifiers, identified top-performing models (KNN, SVM, SGD), and employed feature engineering for optimal performance.
